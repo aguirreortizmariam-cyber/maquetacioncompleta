@@ -8,7 +8,7 @@
 /* PAGINA 1 */
 /* ------------*/
 body {
-    background-color: #2f2f2f;
+    background-color: #206db6;
 }
 
 /* 🔥 FORZAR QUE NO SE ROMPA */
@@ -19,13 +19,13 @@ body {
 
 /* IZQUIERDA */
 .bloquePrincipal1 {
-    background-color: orange;
+    background-color: rgb(248, 106, 248);
     height: 180px;
     border-radius: 10px;
 }
 
 .cuadroPequeno1 {
-    background-color: orange;
+    background-color: rgb(12, 50, 107);
     width: 150px;
     height: 80px;
     border-radius: 10px;
@@ -33,7 +33,7 @@ body {
 
 /* TEXTOS */
 .linea1 {
-    background-color: #7c7c7c;
+    background-color: #29adeb;
     height: 10px;
     width: 100%;
     border-radius: 5px;
@@ -48,7 +48,7 @@ body {
 
 /* DERECHA */
 .sidebar1 {
-    background-color: #444444;
+    background-color: #7055eb;
     border-radius: 10px;
 }
 
@@ -63,12 +63,12 @@ body {
 /* ------------*/
 
 body {
-    background: #111;
+    background: #68dbdf;
     font-family: Arial, sans-serif;
 }
 
 .header2 {
-    background: #666;
+    background: #720d3f;
     height: 180px;
     display: flex;
     align-items: center;
@@ -78,7 +78,7 @@ body {
 .logo2 {
     width: 100px;
     height: 100px;
-    background: #d99b2b;
+    background: #a22bd9;
     margin-right: 20px;
 }
 
@@ -89,14 +89,14 @@ body {
 .title2 {
     width: 300px;
     height: 20px;
-    background: #ddd;
+    background: #afa3f8;
     margin-bottom: 10px;
 }
 
 .lines2 {
     width: 80%;
     height: 10px;
-    background: #888;
+    background: #e97c7c;
     margin-bottom: 10px;
 }
 
@@ -109,13 +109,13 @@ body {
 
 .main-content2 {
     flex: 3;
-    background: #222;
+    background: #90f8e2;
     padding: 20px;
 }
 
 .hero2 {
     height: 200px;
-    background: #444;
+    background: #0961d3;
     margin-bottom: 20px;
 }
 
@@ -134,13 +134,13 @@ body {
 .card2 {
     width: 20%;
     height: 70px;
-    background: #555;
+    background: #91ca96;
 }
 
 .sidebar2 {
     align-items: row;
     flex: 1;
-    background: #444;
+    background: #6799ad;
     padding: 20px;
 }
 
@@ -156,40 +156,40 @@ body {
 }
 
 .red1 {
-    background: #b30021;
+    background: #0062b3;
 }
 
 .red2 {
-    background: #d9002f;
+    background: #0077d9;
 }
 
 .red3 {
-    background: #cc0029;
+    background: #3d00cc;
 }
 
 .red4 {
-    background: #f04a3e;
+    background: #413ef0;
 }
 
 .text-lines-12 {
     flex: 1;
     width: 100%;
     height: 10px;
-    background: #777;
+    background: #cfd668;
     margin-bottom: 20px;
 }
 
 .text-lines-22 {
     width: 100%;
     height: 10px;
-    background: #777;
+    background: #4ee273;
     margin-bottom: 20px;
 }
 
 .text-lines-32 {
     width: 100%;
     height: 10px;
-    background: #777;
+    background: #9f7af5;
     margin-bottom: 20px;
 }
 
@@ -197,7 +197,7 @@ body {
     flex: 1;
     width: 100%;
     height: 10px;
-    background: #777;
+    background: #c992ee;
     margin-bottom: 20px;
 }
 
@@ -216,9 +216,9 @@ body {
 /* ------------*/
 
 body {
-    background: #111;
+    background: #f172d2;
     font-family: Arial, sans-serif;
-    color: white;
+    color: rgb(111, 168, 206);
 }
 
 /* ========================= */
